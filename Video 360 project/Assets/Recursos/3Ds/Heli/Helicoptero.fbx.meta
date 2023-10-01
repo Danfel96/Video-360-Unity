@@ -17,6 +17,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Sillas_Helicoptero
+    second: {fileID: 2100000, guid: f458b43bc2df83b42a0f8c6d49696cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: lambert1
     second: {fileID: 2100000, guid: 8e28cf67fad4c2b41b1ade5ca6b68b10, type: 2}
   materials:
