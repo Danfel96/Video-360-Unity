@@ -6,17 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Scenes/Video 1.unity
+    path: Assets/_Scenes/Video 0.unity
     guid: e72fca04005eb7c4187aebce9af28b10
   - enabled: 1
-    path: Assets/_Scenes/Video 2_1.unity
+    path: Assets/_Scenes/Video 1.unity
     guid: be1f21aea0a9f744cb09aea056503302
   - enabled: 1
-    path: Assets/_Scenes/Video 2_2.unity
+    path: Assets/_Scenes/Video 2.unity
     guid: faeb0160090b0704b98f1fe5eb974e3c
   - enabled: 1
     path: Assets/_Scenes/Video 3.unity
     guid: ff74a31c5a0cbc34896942a2829663c8
+  - enabled: 1
+    path: Assets/_Scenes/Video 4.unity
+    guid: 18a8b21c7bd19534899d6df62bc1e78b
+  - enabled: 1
+    path: Assets/_Scenes/Video 5.unity
+    guid: 140e679a413fd4f44b5a35a6aa7813df
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
